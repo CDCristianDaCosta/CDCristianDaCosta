@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Cristian Javier Da Costa 
+I'm an Informatics Engineer from Paraguay 🇵🇾, passionate about software development and building modern web applications. I created my own portfolio website entirely from scratch using **Django, Python, JavaScript, HTML, and CSS** 
 
-<!--
-**CDCristianDaCosta/CDCristianDaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Focused on becoming a **Full Stack Developer**. 
+🔭 Currently learning and working with **Django** and modern web technologies. 
+🌱 Always improving my skills, exploring new frameworks, and practicing clean code. 
+🎯 Interested in scalable applications, cloud deployment, and continuous learning. 
 
-Here are some ideas to get you started:
+--- 
+## 🚀 Tech Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, JavaScript, Java, HTML, CSS 
+**Frameworks:** Django 
+**Databases:** MySQL, PostgreSQL 
+**Tools:** Git, GitHub, VSCode 
+--- 
+## 📫 Let's connect! 
+
+- [LinkedIn] (https://www.linkedin.com/in/cristiandacosta)
+  
+- Email: cristian.j.mcb@gmail.com
